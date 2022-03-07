@@ -7,6 +7,7 @@ int main()
 	cout <<"You won't regret it!" << endl;/*cin.get();*/
 	cout << "git test code" << endl;
 	cout << "branch" << endl;
+	cout << "and dev" << endl;
 	return 0; 
 
 }
