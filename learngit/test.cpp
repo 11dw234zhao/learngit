@@ -8,6 +8,7 @@ int main()
 	cout << "git test code" << endl;
 	cout << "branch" << endl;
 	cout << "and dev" << endl;
+	cout << "fix bug 101" << endl;
 	return 0; 
 
 }
