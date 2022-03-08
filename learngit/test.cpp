@@ -10,6 +10,7 @@ int main()
 	cout << "and dev" << endl;
 	cout << "fix bug 101" << endl;
 	cout << "master merge to dev" << endl;
+	cout << "branch dev test" << endl;
 	return 0; 
 
 }
