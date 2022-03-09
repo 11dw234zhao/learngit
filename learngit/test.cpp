@@ -11,10 +11,7 @@ int main()
 	cout << "fix bug 101" << endl;
 	cout << "master merge to dev" << endl;
 	cout << "branch dev test" << endl;
-<<<<<<< HEAD
-=======
 	cout << "dev merge to master" << endl;
->>>>>>> dev
 	return 0; 
 
 }
