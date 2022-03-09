@@ -10,8 +10,6 @@ int main()
 	cout << "and dev" << endl;
 	cout << "fix bug 101" << endl;
 	cout << "master merge to dev" << endl;
-	cout << "change master content1" << endl;
-	cout << "change master content2" << endl;
 	return 0; 
 
 }
